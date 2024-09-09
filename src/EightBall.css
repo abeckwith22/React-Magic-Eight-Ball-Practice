@@ -1,0 +1,23 @@
+.EightBall {
+    height: 250px;
+    width: 250px;
+    background-color: black;
+    border-radius: 50%;
+    /* display: inline-block; */
+}
+
+.EightBall .clicked {
+    background-color: green;
+}
+
+.EightBall-restartBtn {
+    width:100px;
+    height:50px;
+}
+
+.EightBall-msg {
+    color: white;
+    font-size: 1.5em;
+    padding-top: 40%;
+    text-align: center;
+}
